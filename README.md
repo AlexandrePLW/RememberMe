@@ -1,6 +1,8 @@
 # RememberMe
 Hackathon by BSA &amp; Sui 
 
+!!! do "npm install" before trying to run the project
+
 RememberMe: Your Digital Memory Journal on Sui
 RememberMe is the ideal place to immortalize your favorite moments. Every memory you record becomes a unique digital token (NFT) on the Sui blockchain, guaranteeing it is timestamped and preserved forever.
 
